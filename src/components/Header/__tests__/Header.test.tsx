@@ -20,7 +20,7 @@ describe('Testes para o componente Header', () => {
               plataformas: ['Windows'],
               preco: 150.9,
               precoAntigo: 99,
-              titulo: `elden ring`
+              titulo: `elden ing`
             },
             {
               id: 1,
